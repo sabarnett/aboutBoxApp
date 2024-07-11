@@ -1,8 +1,11 @@
 //
-// File: aboutBoxAppApp.swift
-// Package: aboutBoxApp
-// Created by: Steven Barnett on 27/06/2024
-// 
+// -----------------------------------------
+// Original project: aboutBoxApp
+// Original package: aboutBoxApp
+// Created on: 11/07/2024 by: Steven Barnett
+// Web: http://www.sabarnett.co.uk
+// GitHub: https://www.github.com/sabarnett
+// -----------------------------------------
 // Copyright © 2024 Steven Barnett. All rights reserved.
 //
         
